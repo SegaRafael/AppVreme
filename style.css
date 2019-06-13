@@ -83,7 +83,7 @@ h2 {
 .current {
     color: white;
     grid-area: current;
-    margin: 0;
+    margin: 1px;
     width: 80%;
     list-style: none;
     line-height: 1.4;
