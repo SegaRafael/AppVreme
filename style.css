@@ -25,7 +25,7 @@ body {
 }
 #enter-city {
     width: 50%;
-    height: 50px;
+    height: 3.125rem;
     border: 0;
     border-radius: 5px;
     padding: 0 10px;
@@ -38,7 +38,7 @@ body {
     background-color: var(--pine); 
     color: white;
     width: 21%;
-    height: 50px;
+    height: 3.125rem;
     border: 0;
     border-radius: 5px;
     margin-left: 2.2%;
